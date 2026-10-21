@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+.venv/
+
+# PDFs generados por la app
+reportes/
+
+# Editor
+.vscode/
+.idea/
